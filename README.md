@@ -1,5 +1,5 @@
 # Personal Website
-https://asecco.github.io
+http://andrewsecco.netlify.app
 
 # Based on template:
 https://github.com/cobidev/gatsby-simplefolio
