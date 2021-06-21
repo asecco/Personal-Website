@@ -48,7 +48,7 @@ export const projectsData = [
 export const contactData = {
   cta: "I'm always open to collaboration, so feel free to contact me about opportunities.",
   btn: 'Email',
-  email: 'asecco99@gmai.com',
+  email: 'asecco99@gmail.com',
 };
 
 // FOOTER DATA
