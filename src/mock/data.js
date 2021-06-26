@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: "I'm currently a student at Michigan State University studying Information Science, concentrating in Human-Centered Technology.",
   paragraphTwo: "I've been passionate about technology my entire life and have used that passion to create and utilize technologies such as games, websites, apps, and more with the goal of being useful and improving people's lives.",
   paragraphThree: "When I'm not immersed in tech, I enjoy keeping up with the latest films and television series, which leads into some of my other hobbies, storytelling and video production.",
-  resume: 'https://drive.google.com/file/d/1ZBAMaFYc9swHZUJYznx7YBJ8VjL-Kk3C/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'resume', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
