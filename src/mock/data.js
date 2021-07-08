@@ -64,11 +64,6 @@ export const footerData = {
       name: 'github',
       url: 'http://github.com/asecco',
     },
-    {
-      id: nanoid(),
-      name: 'youtube',
-      url: 'https://youtube.com/clownz',
-    },
   ],
 };
 
