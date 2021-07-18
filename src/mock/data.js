@@ -20,12 +20,20 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: "I'm currently a student at Michigan State University studying Information Science, concentrating in Human-Centered Technology.",
   paragraphTwo: "I've been passionate about technology my entire life and have used that passion to create and utilize technologies such as games, websites, apps, and more with the goal of being useful and improving people's lives.",
-  paragraphThree: "When I'm not immersed in tech, I enjoy keeping up with the latest films and television series, which leads into some of my other hobbies, storytelling and video production.",
+  paragraphThree: "When I'm not immersed in tech, I enjoy keeping up with the latest films and television series and spending time with my dogs.",
   resume: 'resume', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'msu-majors.png',
+    title: 'MSU Majors',
+    info: 'Static website for Michigan State University that pulls together career and academic information for all the majors and puts it in one easy-to-read location.',
+    info2: "Created using only HTML/CSS/JavaScript",
+    url: 'https://github.com/asecco/MSU-Majors',
+  },
   {
     id: nanoid(),
     img: 'ip-location-lookup.png',
