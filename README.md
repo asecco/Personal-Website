@@ -1,4 +1,4 @@
-# Personal Website
+# Personal Website (OUTDATED)
 http://andrewsecco.netlify.app
 
 # Based on template:
